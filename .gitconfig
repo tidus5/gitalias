@@ -1,6 +1,8 @@
 [user]
 	name = tidus
 	#保存路径，   C:\User\用户名\.gitconfig
+[include]
+    path = "C:/Users/Administrator/gitalias.txt"
 [alias]
     st = status
     ci = commit
